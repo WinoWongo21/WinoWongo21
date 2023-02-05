@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WinoWongo21, I come from England 🇬🇧
 - 👀 I’m interested in Playing Warzone
 - 🌱 I’m currently learning many languages
-- 💞️ I’m looking to collaborate on termux
+- 💞️ I’m looking to collaborate on any ICT task
 - 📫 How to reach me: Email me on joshmatthewmichaelwinson@gmail.com 
 
 <!---
